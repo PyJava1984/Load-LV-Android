@@ -1,5 +1,6 @@
 # Load-LV-Android
-`
+
+```
 Activity :
 DBController controller;
 ListView lv;
@@ -76,4 +77,5 @@ public ArrayList<HashMap<String, String>> getAllProducts() {
 	return journalList;
 
 }
-`
+
+```
